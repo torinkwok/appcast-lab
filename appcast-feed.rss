@@ -9,19 +9,19 @@
         <description>
           <![CDATA[
             <ul>
-						<h3>What's New</h3>
-						<li>Solved the percent escapes problem of URL property for WSCKeychain</li>
+		<h3>What's New</h3>
+		<li>Solved the percent escapes problem of URL property for WSCKeychain</li>
 				
-						<h3>Minimum System Requirements</h3>
-						<li>Xcode 5.x or greater for compiling</li>
-						<li>OS X 10.7 for compiling and running</li>
+		<h3>Minimum System Requirements</h3>
+		<li>Xcode 5.x or greater for compiling</li>
+		<li>OS X 10.7 for compiling and running</li>
 
-						<h3>Contact Me</h3>
-						If you encountered any issue, you can:
+		<h3>Contact Me</h3>
+		If you encountered any issue, you can:
 
-						<li>Email me: contact@tong-kuo.me</li>
-						<li>If you are using S/MIME, you can send me encrypted email by retrieving my S/MIME certificate and its related intermediate certificates in here</li>
-						<li>If you are using GnuPG, you can send me encrypted email, my GnuPG pub key is on the <a src="https://keybase.io/tongkuo">Keybase.io</a></li>
+		<li>Email me: contact@tong-kuo.me</li>
+		<li>If you are using S/MIME, you can send me encrypted email by retrieving my S/MIME certificate and its related intermediate certificates in here</li>
+		<li>If you are using GnuPG, you can send me encrypted email, my GnuPG pub key is on the <a href="https://keybase.io/tongkuo">Keybase.io</a></li>
             </ul>
           ]]>
         </description>
