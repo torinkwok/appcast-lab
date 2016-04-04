@@ -21,7 +21,7 @@
 
 		<li>Email me: contact@tong-kuo.me</li>
 		<li>If you are using S/MIME, you can send me encrypted email by retrieving my S/MIME certificate and its related intermediate certificates in here</li>
-		<li>If you are using GnuPG, you can send me encrypted email, my GnuPG pub key is 0x5604FA90, you can retrieve it from keyserver</li>
+		<li>If you are using GnuPG, you can send me encrypted email, my GnuPG pub key is on the <a src="https://keybase.io/tongkuo" >Keybase.io</a>, you can retrieve it from keyserver</li>
             </ul>
           ]]>
         </description>
