@@ -33,7 +33,7 @@
 		</sparkle:releaseNotesLink>
 
         <pubDate>Tue, 05 Apr 2016 13:23:00 +0000</pubDate>
-        <enclosure url="https://github.com/TongKuo/appcast-lab/releases/download/v5.0/appcast-lab-zeta-5.0.zip" sparkle:version="5.0" sparkle:shortVersionString="Zeta (5.0)" sparkle:dsaSignature="MCwCFBvuI54a4A7pNQKDzn4tY4YiLQjIAhRWDeD1DJPdv7bo7oS5Gs/Lxlpwxw==" />
+        <enclosure url="https://github.com/TongKuo/appcast-lab/releases/download/v5.0/appcast-lab-zeta-5.0.zip" sparkle:version="5.0" sparkle:shortVersionString="Zeta (5.0)" sparkle:dsaSignature="MCwCFEdHaiYtMLTHYdFYZpxt3ngYsT6MAhQd+3TM1oL37924l1Oz5uqwUkAv8w==" />
       </item>
 
       <item>
