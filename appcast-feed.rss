@@ -5,6 +5,22 @@
     <description>Most recent changes with links to updates.</description>
 
       <item>
+        <title>Version 3.0</title>
+		<sparkle:minimumSystemVersion>10.11.4</sparkle:minimumSystemVersion>
+
+		<sparkle:releaseNotesLink>
+			https://raw.githubusercontent.com/TongKuo/appcast-lab/master/appcast-3.0-release-notes.htm
+		</sparkle:releaseNotesLink>
+
+		<sparkle:releaseNotesLink xml:lang="de">
+			https://raw.githubusercontent.com/TongKuo/appcast-lab/master/appcast-3.0-release-notes-zh-cn.htm
+		</sparkle:releaseNotesLink>
+
+        <pubDate>Tue, 05 Apr 2016 13:23:00 +0000</pubDate>
+        <enclosure url="https://github.com/TongKuo/appcast-lab/releases/download/v2.1/appcast-lab.zip" sparkle:version="3.0" sparkle:shortVersionString="Gamma (3.0)" />
+      </item>
+
+      <item>
         <title>Version 2.1</title>
 		<sparkle:minimumSystemVersion>10.11.4</sparkle:minimumSystemVersion>
 

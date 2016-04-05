@@ -15,6 +15,8 @@
 		832922D51CB38264008EFBCB /* appcast_labUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 832922D41CB38264008EFBCB /* appcast_labUITests.m */; };
 		832922FA1CB382D7008EFBCB /* Sparkle.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 832922EF1CB382D3008EFBCB /* Sparkle.framework */; };
 		832922FB1CB382D7008EFBCB /* Sparkle.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 832922EF1CB382D3008EFBCB /* Sparkle.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		832923201CB39E65008EFBCB /* pubkey.pem in Resources */ = {isa = PBXBuildFile; fileRef = 8329231F1CB39E65008EFBCB /* pubkey.pem */; };
+		832923221CB39E73008EFBCB /* pubkey.pem in CopyFiles */ = {isa = PBXBuildFile; fileRef = 8329231F1CB39E65008EFBCB /* pubkey.pem */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -95,6 +97,16 @@
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		832923211CB39E6D008EFBCB /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = appcast;
+			dstSubfolderSpec = 7;
+			files = (
+				832923221CB39E73008EFBCB /* pubkey.pem in CopyFiles */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
@@ -112,6 +124,7 @@
 		832922D41CB38264008EFBCB /* appcast_labUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = appcast_labUITests.m; sourceTree = "<group>"; };
 		832922D61CB38264008EFBCB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		832922E21CB382D3008EFBCB /* Sparkle.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Sparkle.xcodeproj; path = ../Sparkle/Sparkle.xcodeproj; sourceTree = "<group>"; };
+		8329231F1CB39E65008EFBCB /* pubkey.pem */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = pubkey.pem; path = ../../../Desktop/pubkey.pem; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -143,6 +156,7 @@
 		832922A91CB38264008EFBCB = {
 			isa = PBXGroup;
 			children = (
+				8329231F1CB39E65008EFBCB /* pubkey.pem */,
 				832922E21CB382D3008EFBCB /* Sparkle.xcodeproj */,
 				832922B41CB38264008EFBCB /* appcast-lab */,
 				832922C81CB38264008EFBCB /* appcast-labTests */,
@@ -224,6 +238,7 @@
 				832922AF1CB38264008EFBCB /* Frameworks */,
 				832922B01CB38264008EFBCB /* Resources */,
 				832922FE1CB382D7008EFBCB /* Embed Frameworks */,
+				832923211CB39E6D008EFBCB /* CopyFiles */,
 			);
 			buildRules = (
 			);
@@ -370,6 +385,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				832922BC1CB38264008EFBCB /* Assets.xcassets in Resources */,
+				832923201CB39E65008EFBCB /* pubkey.pem in Resources */,
 				832922BF1CB38264008EFBCB /* MainMenu.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
