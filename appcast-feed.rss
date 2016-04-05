@@ -10,11 +10,11 @@
           <![CDATA[
             <ul>
 		<h3>What's New</h3>
-		<li>Solved the percent escapes problem of URL property for WSCKeychain</li>
+		<li>Updated the version number to v1.0</li>
 				
 		<h3>Minimum System Requirements</h3>
-		<li>Xcode 5.x or greater for compiling</li>
-		<li>OS X 10.7 for compiling and running</li>
+		<li>Xcode 7.3 or greater for compiling</li>
+		<li>OS X 10.11 for compiling and running</li>
 
 		<h3>Contact Me</h3>
 		If you encountered any issue, you can:
@@ -25,8 +25,8 @@
             </ul>
           ]]>
         </description>
-        <pubDate>Mon, 04 Apr 2016 21:06:01 +0000</pubDate>
-        <enclosure url="https://github.com/TongKuo/appcast-lab/releases/download/1.0/SparkleLab.zip" sparkle:version="1.0" />
+        <pubDate>Tue, 05 Apr 2016 13:23:00 +0000</pubDate>
+        <enclosure url="https://github.com/TongKuo/appcast-lab/releases/download/1.0/appcast-lab.zip" sparkle:version="1.0" />
       </item>
   </channel>
 </rss>

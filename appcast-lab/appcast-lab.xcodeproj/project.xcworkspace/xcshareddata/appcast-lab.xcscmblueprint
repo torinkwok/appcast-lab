@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "21E7EAEBD8DB11A5ED7C48CA82F192F42193B771",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "EF1CF5E1F342919DE309B5C9DAEDDCF1D12D0402" : 0,
+    "21E7EAEBD8DB11A5ED7C48CA82F192F42193B771" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "16EF4E32-9C3C-4804-BCF9-20EAFEA7E63F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "EF1CF5E1F342919DE309B5C9DAEDDCF1D12D0402" : "appcast-lab\/Sparkle\/",
+    "21E7EAEBD8DB11A5ED7C48CA82F192F42193B771" : "appcast-lab\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "appcast-lab",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "appcast-lab\/appcast-lab.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/TongKuo\/appcast-lab.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "21E7EAEBD8DB11A5ED7C48CA82F192F42193B771"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/sparkle-project\/Sparkle",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EF1CF5E1F342919DE309B5C9DAEDDCF1D12D0402"
+    }
+  ]
+}
