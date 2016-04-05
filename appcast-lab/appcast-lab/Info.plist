@@ -37,6 +37,6 @@
 	<key>SUFeedURL</key>
 	<string>https://raw.githubusercontent.com/TongKuo/appcast-lab/master/appcast-feed.rss</string>
 	<key>SUPublicDSAKeyFile</key>
-	<string>appcast/bad-pubkey.pem</string>
+	<string>appcast/pubkey.pem</string>
 </dict>
 </plist>
