@@ -10,6 +10,11 @@
 		<sparkle:releaseNotesLink>
 			https://raw.githubusercontent.com/TongKuo/appcast-lab/master/appcast-2.0-release-notes.htm
 		</sparkle:releaseNotesLink>
+
+		<sparkle:releaseNotesLink xml:lang="zh-cn">
+			https://raw.githubusercontent.com/TongKuo/appcast-lab/master/appcast-2.0-release-notes-zh-cn.htm
+		</sparkle:releaseNotesLink>
+
         <pubDate>Tue, 05 Apr 2016 13:23:00 +0000</pubDate>
         <enclosure url="https://github.com/TongKuo/appcast-lab/releases/download/1.0/appcast-lab.zip" sparkle:version="2.0" sparkle:shortVersionString="Beta" />
       </item>
