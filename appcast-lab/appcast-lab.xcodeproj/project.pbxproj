@@ -15,7 +15,7 @@
 		832922D51CB38264008EFBCB /* appcast_labUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 832922D41CB38264008EFBCB /* appcast_labUITests.m */; };
 		832922FA1CB382D7008EFBCB /* Sparkle.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 832922EF1CB382D3008EFBCB /* Sparkle.framework */; };
 		832922FB1CB382D7008EFBCB /* Sparkle.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 832922EF1CB382D3008EFBCB /* Sparkle.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		832923221CB39E73008EFBCB /* pubkey.pem in CopyFiles */ = {isa = PBXBuildFile; fileRef = 8329231F1CB39E65008EFBCB /* pubkey.pem */; };
+		832923271CB3BF97008EFBCB /* pubkey.pem in CopyFiles */ = {isa = PBXBuildFile; fileRef = 832923251CB3BF77008EFBCB /* pubkey.pem */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -102,7 +102,7 @@
 			dstPath = appcast;
 			dstSubfolderSpec = 7;
 			files = (
-				832923221CB39E73008EFBCB /* pubkey.pem in CopyFiles */,
+				832923271CB3BF97008EFBCB /* pubkey.pem in CopyFiles */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -123,7 +123,7 @@
 		832922D41CB38264008EFBCB /* appcast_labUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = appcast_labUITests.m; sourceTree = "<group>"; };
 		832922D61CB38264008EFBCB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		832922E21CB382D3008EFBCB /* Sparkle.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Sparkle.xcodeproj; path = ../Sparkle/Sparkle.xcodeproj; sourceTree = "<group>"; };
-		8329231F1CB39E65008EFBCB /* pubkey.pem */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = pubkey.pem; path = ../../../Desktop/pubkey.pem; sourceTree = "<group>"; };
+		832923251CB3BF77008EFBCB /* pubkey.pem */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pubkey.pem; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -155,7 +155,7 @@
 		832922A91CB38264008EFBCB = {
 			isa = PBXGroup;
 			children = (
-				8329231F1CB39E65008EFBCB /* pubkey.pem */,
+				832923251CB3BF77008EFBCB /* pubkey.pem */,
 				832922E21CB382D3008EFBCB /* Sparkle.xcodeproj */,
 				832922B41CB38264008EFBCB /* appcast-lab */,
 				832922C81CB38264008EFBCB /* appcast-labTests */,
