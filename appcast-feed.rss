@@ -65,7 +65,7 @@
 		</sparkle:releaseNotesLink>
 
         <pubDate>Tue, 05 Apr 2016 13:23:00 +0000</pubDate>
-        <enclosure url="https://github.com/TongKuo/appcast-lab/releases/download/v2.0/appcast-lab.zip" sparkle:version="2.0" sparkle:shortVersionString="Beta (2.0)" sparkle:dsaSignature="MCwCFB0jZLSwkT9ZtK8PZfYxTb/iDPuDAhRBX+VGcYhX4Vo8OJBUtzJ+QguZyg==" />
+        <enclosure url="https://github.com/TongKuo/appcast-lab/releases/download/v2.0/appcast-lab-beta.zip" sparkle:version="2.0" sparkle:shortVersionString="Beta (2.0)" sparkle:dsaSignature="MCwCFB0jZLSwkT9ZtK8PZfYxTb/iDPuDAhRBX+VGcYhX4Vo8OJBUtzJ+QguZyg==" />
       </item>
 
       <item>
