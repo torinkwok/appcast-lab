@@ -17,7 +17,7 @@
 		</sparkle:releaseNotesLink>
 
         <pubDate>Tue, 05 Apr 2016 13:23:00 +0000</pubDate>
-        <enclosure url="https://github.com/TongKuo/appcast-lab/releases/download/v6.0/appcast-lab-eta-6.0.zip" sparkle:version="6.0" sparkle:shortVersionString="Eta (6.0)" sparkle:dsaSignature="MCwCFAuZR/lphucxjv5E8jPqiU21qiDPAhQid7y8IyoGXKYczkZrgrLQWg6Yfg==" />
+        <enclosure url="https://github.com/TongKuo/appcast-lab/releases/download/v6.0/appcast-lab-eta-6.0.zip" sparkle:version="6.0" sparkle:shortVersionString="Eta (6.0)" sparkle:dsaSignature="MCwCFAuZR/lphucxjv5E8jPqiU21qiDPAhQid7y8IyoGXKYczkZrgrLQWg6fg==" />
       </item>
 
       <item>
@@ -28,7 +28,7 @@
 			https://raw.githubusercontent.com/TongKuo/appcast-lab/master/appcast-5.0-release-notes.htm
 		</sparkle:releaseNotesLink>
 
-		<sparkle:releaseNotesLink xml:lang="zh-cn">
+		<sparkle:releaseNotesLink xml:lang=" zh-cn">
 			https://raw.githubusercontent.com/TongKuo/appcast-lab/master/appcast-5.0-release-notes-zh-cn.htm
 		</sparkle:releaseNotesLink>
 
