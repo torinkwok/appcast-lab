@@ -33,7 +33,7 @@
 		</sparkle:releaseNotesLink>
 
         <pubDate>Tue, 05 Apr 2016 13:23:00 +0000</pubDate>
-        <enclosure url="https://github.com/TongKuo/appcast-lab/releases/download/v3.0/appcast-lab.zip" sparkle:version="3.0" sparkle:shortVersionString="Gamma (3.0)" sparkle:dsaSignature="MCwCFEW+vkiSIB7cJ+9JA8KXyMABSEOuAhRHQ11kdju+PpzatVXtqSlYAvJQVg==" />
+        <enclosure url="https://github.com/TongKuo/appcast-lab/releases/download/v3.0/appcast-lab-gamma-3.0.zip" sparkle:version="3.0" sparkle:shortVersionString="Gamma (3.0)" sparkle:dsaSignature="MCwCFEW+vkiSIB7cJ+9JA8KXyMABSEOuAhRHQ11kdju+PpzatVXtqSlYAvJQVg==" />
       </item>
 
       <item>
