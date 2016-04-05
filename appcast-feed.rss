@@ -7,25 +7,9 @@
       <item>
         <title>Version 2.0</title>
 		<sparkle:minimumSystemVersion>10.11.4</sparkle:minimumSystemVersion>
-        <description>
-          <![CDATA[
-            <ul>
-		<h3>What's New</h3>
-		<li>Updated the version number to v2.0</li>
-				
-		<h3>Minimum System Requirements</h3>
-		<li>Xcode 7.3 or greater for compiling</li>
-		<li>OS X 10.11 for compiling and running</li>
-
-		<h3>Contact Me</h3>
-		If you encountered any issue, you can:
-
-		<li>Email me: <a href="mailto:contact@tong-kuo.me">contact@tong-kuo.me</a></li>
-		<li>If you are using S/MIME, you can send me encrypted email by retrieving my S/MIME certificate and its related intermediate certificates in here</li>
-		<li>If you are using GnuPG, you can send me encrypted email, my GnuPG pub key is on the <a href="https://keybase.io/tongkuo">Keybase.io</a></li>
-            </ul>
-          ]]>
-        </description>
+		<sparkle:releaseNotesLink>
+			https://raw.githubusercontent.com/TongKuo/appcast-lab/master/appcast-2.0-release-notes.htm
+		</sparkle:releaseNotesLink>
         <pubDate>Tue, 05 Apr 2016 13:23:00 +0000</pubDate>
         <enclosure url="https://github.com/TongKuo/appcast-lab/releases/download/1.0/appcast-lab.zip" sparkle:version="2.0" sparkle:shortVersionString="1.0" />
       </item>
