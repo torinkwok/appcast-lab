@@ -20,8 +20,8 @@
         <enclosure url="https://github.com/TongKuo/appcast-lab/releases/download/v4.0/appcast-lab.zip" sparkle:version="4.0" sparkle:shortVersionString="Epsilon (4.0)" sparkle:dsaSignature="MCwCFCFK9VNbbcvRv0cZfMrLNrzO1uQpAhQI8BR+8lIzw4+Hjozz0zhk08FAMA==" />
       </item> -->
 
-<!--       <item>
-        <title>Version 3.0</title>
+      <item>
+        <title>"Version \"Gamma\"3.0"</title>
 		<sparkle:minimumSystemVersion>10.11.4</sparkle:minimumSystemVersion>
 
 		<sparkle:releaseNotesLink>
@@ -33,8 +33,8 @@
 		</sparkle:releaseNotesLink>
 
         <pubDate>Tue, 05 Apr 2016 13:23:00 +0000</pubDate>
-        <enclosure url="https://github.com/TongKuo/appcast-lab/releases/download/v3.0/appcast-lab.zip" sparkle:version="3.0" sparkle:shortVersionString="Gamma (3.0)" sparkle:dsaSignature="MCwCFDU4yHwkaQTantoxHej7Tky/36C/AhQZ1m6eIoenH+lKHF2tY4HgCPVQwA==" />
-      </item> -->
+        <enclosure url="https://github.com/TongKuo/appcast-lab/releases/download/v3.0/appcast-lab.zip" sparkle:version="3.0" sparkle:shortVersionString="Gamma (3.0)" sparkle:dsaSignature="MCwCFEW+vkiSIB7cJ+9JA8KXyMABSEOuAhRHQ11kdju+PpzatVXtqSlYAvJQVg==" />
+      </item>
 
       <item>
         <title>"Version \"Beta\"2.1"</title>
@@ -49,7 +49,7 @@
 		</sparkle:releaseNotesLink>
 
         <pubDate>Tue, 05 Apr 2016 13:23:00 +0000</pubDate>
-        <enclosure url="https://github.com/TongKuo/appcast-lab/releases/download/v2.1/appcast-lab-beta2.1.zip" sparkle:version="2.1" sparkle:shortVersionString="Beta 2.1" sparkle:dsaSignature="MCsCE0KWDcMuJ3J2HBXccccmCZPW9MECFFp3fOvJFxqwbPaf8g1oZBIfJjHM" />
+        <enclosure url="https://github.com/TongKuo/appcast-lab/releases/download/v2.1/appcast-lab-beta2.1.zip" sparkle:version="2.1" sparkle:shortVersionString="Beta (2.1)" sparkle:dsaSignature="MCsCE0KWDcMuJ3J2HBXccccmCZPW9MECFFp3fOvJFxqwbPaf8g1oZBIfJjHM" />
       </item>
 
       <item>
