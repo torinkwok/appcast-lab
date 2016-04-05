@@ -31,6 +31,6 @@
 	<key>NSPrincipalClass</key>
 	<string>NSApplication</string>
 	<key>SUFeedURL</key>
-	<string></string>
+	<string>https://raw.githubusercontent.com/TongKuo/appcast-lab/master/appcast-feed.rss</string>
 </dict>
 </plist>
