@@ -17,11 +17,11 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>Zeta</string>
+	<string>Eta</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleVersion</key>
-	<string>5.0</string>
+	<string>6.0</string>
 	<key>LSMinimumSystemVersion</key>
 	<string>$(MACOSX_DEPLOYMENT_TARGET)</string>
 	<key>NSHumanReadableCopyright</key>
@@ -37,6 +37,6 @@
 	<key>SUFeedURL</key>
 	<string>https://raw.githubusercontent.com/TongKuo/appcast-lab/master/appcast-feed.rss</string>
 	<key>SUPublicDSAKeyFile</key>
-	<string>bad/pubkey.pem</string>
+	<string>appcast/bad-pubkey.pem</string>
 </dict>
 </plist>
