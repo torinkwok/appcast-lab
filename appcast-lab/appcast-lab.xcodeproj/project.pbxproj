@@ -1,0 +1,511 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		832922B71CB38264008EFBCB /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 832922B61CB38264008EFBCB /* AppDelegate.m */; };
+		832922BA1CB38264008EFBCB /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 832922B91CB38264008EFBCB /* main.m */; };
+		832922BC1CB38264008EFBCB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 832922BB1CB38264008EFBCB /* Assets.xcassets */; };
+		832922BF1CB38264008EFBCB /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 832922BD1CB38264008EFBCB /* MainMenu.xib */; };
+		832922CA1CB38264008EFBCB /* appcast_labTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 832922C91CB38264008EFBCB /* appcast_labTests.m */; };
+		832922D51CB38264008EFBCB /* appcast_labUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 832922D41CB38264008EFBCB /* appcast_labUITests.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		832922C61CB38264008EFBCB /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 832922AA1CB38264008EFBCB /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 832922B11CB38264008EFBCB;
+			remoteInfo = "appcast-lab";
+		};
+		832922D11CB38264008EFBCB /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 832922AA1CB38264008EFBCB /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 832922B11CB38264008EFBCB;
+			remoteInfo = "appcast-lab";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		832922B21CB38264008EFBCB /* appcast-lab.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "appcast-lab.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		832922B51CB38264008EFBCB /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		832922B61CB38264008EFBCB /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		832922B91CB38264008EFBCB /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		832922BB1CB38264008EFBCB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		832922BE1CB38264008EFBCB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		832922C01CB38264008EFBCB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		832922C51CB38264008EFBCB /* appcast-labTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "appcast-labTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		832922C91CB38264008EFBCB /* appcast_labTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = appcast_labTests.m; sourceTree = "<group>"; };
+		832922CB1CB38264008EFBCB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		832922D01CB38264008EFBCB /* appcast-labUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "appcast-labUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		832922D41CB38264008EFBCB /* appcast_labUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = appcast_labUITests.m; sourceTree = "<group>"; };
+		832922D61CB38264008EFBCB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		832922AF1CB38264008EFBCB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		832922C21CB38264008EFBCB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		832922CD1CB38264008EFBCB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		832922A91CB38264008EFBCB = {
+			isa = PBXGroup;
+			children = (
+				832922B41CB38264008EFBCB /* appcast-lab */,
+				832922C81CB38264008EFBCB /* appcast-labTests */,
+				832922D31CB38264008EFBCB /* appcast-labUITests */,
+				832922B31CB38264008EFBCB /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		832922B31CB38264008EFBCB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				832922B21CB38264008EFBCB /* appcast-lab.app */,
+				832922C51CB38264008EFBCB /* appcast-labTests.xctest */,
+				832922D01CB38264008EFBCB /* appcast-labUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		832922B41CB38264008EFBCB /* appcast-lab */ = {
+			isa = PBXGroup;
+			children = (
+				832922B51CB38264008EFBCB /* AppDelegate.h */,
+				832922B61CB38264008EFBCB /* AppDelegate.m */,
+				832922BB1CB38264008EFBCB /* Assets.xcassets */,
+				832922BD1CB38264008EFBCB /* MainMenu.xib */,
+				832922C01CB38264008EFBCB /* Info.plist */,
+				832922B81CB38264008EFBCB /* Supporting Files */,
+			);
+			path = "appcast-lab";
+			sourceTree = "<group>";
+		};
+		832922B81CB38264008EFBCB /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				832922B91CB38264008EFBCB /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		832922C81CB38264008EFBCB /* appcast-labTests */ = {
+			isa = PBXGroup;
+			children = (
+				832922C91CB38264008EFBCB /* appcast_labTests.m */,
+				832922CB1CB38264008EFBCB /* Info.plist */,
+			);
+			path = "appcast-labTests";
+			sourceTree = "<group>";
+		};
+		832922D31CB38264008EFBCB /* appcast-labUITests */ = {
+			isa = PBXGroup;
+			children = (
+				832922D41CB38264008EFBCB /* appcast_labUITests.m */,
+				832922D61CB38264008EFBCB /* Info.plist */,
+			);
+			path = "appcast-labUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		832922B11CB38264008EFBCB /* appcast-lab */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 832922D91CB38264008EFBCB /* Build configuration list for PBXNativeTarget "appcast-lab" */;
+			buildPhases = (
+				832922AE1CB38264008EFBCB /* Sources */,
+				832922AF1CB38264008EFBCB /* Frameworks */,
+				832922B01CB38264008EFBCB /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "appcast-lab";
+			productName = "appcast-lab";
+			productReference = 832922B21CB38264008EFBCB /* appcast-lab.app */;
+			productType = "com.apple.product-type.application";
+		};
+		832922C41CB38264008EFBCB /* appcast-labTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 832922DC1CB38264008EFBCB /* Build configuration list for PBXNativeTarget "appcast-labTests" */;
+			buildPhases = (
+				832922C11CB38264008EFBCB /* Sources */,
+				832922C21CB38264008EFBCB /* Frameworks */,
+				832922C31CB38264008EFBCB /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				832922C71CB38264008EFBCB /* PBXTargetDependency */,
+			);
+			name = "appcast-labTests";
+			productName = "appcast-labTests";
+			productReference = 832922C51CB38264008EFBCB /* appcast-labTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		832922CF1CB38264008EFBCB /* appcast-labUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 832922DF1CB38264008EFBCB /* Build configuration list for PBXNativeTarget "appcast-labUITests" */;
+			buildPhases = (
+				832922CC1CB38264008EFBCB /* Sources */,
+				832922CD1CB38264008EFBCB /* Frameworks */,
+				832922CE1CB38264008EFBCB /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				832922D21CB38264008EFBCB /* PBXTargetDependency */,
+			);
+			name = "appcast-labUITests";
+			productName = "appcast-labUITests";
+			productReference = 832922D01CB38264008EFBCB /* appcast-labUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		832922AA1CB38264008EFBCB /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0720;
+				ORGANIZATIONNAME = "Tong Kuo";
+				TargetAttributes = {
+					832922B11CB38264008EFBCB = {
+						CreatedOnToolsVersion = 7.2.1;
+					};
+					832922C41CB38264008EFBCB = {
+						CreatedOnToolsVersion = 7.2.1;
+						TestTargetID = 832922B11CB38264008EFBCB;
+					};
+					832922CF1CB38264008EFBCB = {
+						CreatedOnToolsVersion = 7.2.1;
+						TestTargetID = 832922B11CB38264008EFBCB;
+					};
+				};
+			};
+			buildConfigurationList = 832922AD1CB38264008EFBCB /* Build configuration list for PBXProject "appcast-lab" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 832922A91CB38264008EFBCB;
+			productRefGroup = 832922B31CB38264008EFBCB /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				832922B11CB38264008EFBCB /* appcast-lab */,
+				832922C41CB38264008EFBCB /* appcast-labTests */,
+				832922CF1CB38264008EFBCB /* appcast-labUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		832922B01CB38264008EFBCB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				832922BC1CB38264008EFBCB /* Assets.xcassets in Resources */,
+				832922BF1CB38264008EFBCB /* MainMenu.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		832922C31CB38264008EFBCB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		832922CE1CB38264008EFBCB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		832922AE1CB38264008EFBCB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				832922BA1CB38264008EFBCB /* main.m in Sources */,
+				832922B71CB38264008EFBCB /* AppDelegate.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		832922C11CB38264008EFBCB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				832922CA1CB38264008EFBCB /* appcast_labTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		832922CC1CB38264008EFBCB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				832922D51CB38264008EFBCB /* appcast_labUITests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		832922C71CB38264008EFBCB /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 832922B11CB38264008EFBCB /* appcast-lab */;
+			targetProxy = 832922C61CB38264008EFBCB /* PBXContainerItemProxy */;
+		};
+		832922D21CB38264008EFBCB /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 832922B11CB38264008EFBCB /* appcast-lab */;
+			targetProxy = 832922D11CB38264008EFBCB /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		832922BD1CB38264008EFBCB /* MainMenu.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				832922BE1CB38264008EFBCB /* Base */,
+			);
+			name = MainMenu.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		832922D71CB38264008EFBCB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		832922D81CB38264008EFBCB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		832922DA1CB38264008EFBCB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "Developer ID Application";
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = "appcast-lab/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "home.bedroom.TongKuo.appcast-lab";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		832922DB1CB38264008EFBCB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "Developer ID Application";
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = "appcast-lab/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "home.bedroom.TongKuo.appcast-lab";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		832922DD1CB38264008EFBCB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = "appcast-labTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "home.bedroom.TongKuo.appcast-labTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/appcast-lab.app/Contents/MacOS/appcast-lab";
+			};
+			name = Debug;
+		};
+		832922DE1CB38264008EFBCB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = "appcast-labTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "home.bedroom.TongKuo.appcast-labTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/appcast-lab.app/Contents/MacOS/appcast-lab";
+			};
+			name = Release;
+		};
+		832922E01CB38264008EFBCB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = "appcast-labUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "home.bedroom.TongKuo.appcast-labUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = "appcast-lab";
+				USES_XCTRUNNER = YES;
+			};
+			name = Debug;
+		};
+		832922E11CB38264008EFBCB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = "appcast-labUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "home.bedroom.TongKuo.appcast-labUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = "appcast-lab";
+				USES_XCTRUNNER = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		832922AD1CB38264008EFBCB /* Build configuration list for PBXProject "appcast-lab" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				832922D71CB38264008EFBCB /* Debug */,
+				832922D81CB38264008EFBCB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		832922D91CB38264008EFBCB /* Build configuration list for PBXNativeTarget "appcast-lab" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				832922DA1CB38264008EFBCB /* Debug */,
+				832922DB1CB38264008EFBCB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		832922DC1CB38264008EFBCB /* Build configuration list for PBXNativeTarget "appcast-labTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				832922DD1CB38264008EFBCB /* Debug */,
+				832922DE1CB38264008EFBCB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		832922DF1CB38264008EFBCB /* Build configuration list for PBXNativeTarget "appcast-labUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				832922E01CB38264008EFBCB /* Debug */,
+				832922E11CB38264008EFBCB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 832922AA1CB38264008EFBCB /* Project object */;
+}
