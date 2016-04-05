@@ -4,8 +4,8 @@
     <title>appcast-lab changelog</title>
     <description>Most recent changes with links to updates.</description>
 
-<!--       <item>
-        <title>Version 4.0</title>
+      <item>
+        <title>"Version \"Epsilon\"4.0"</title>
 		<sparkle:minimumSystemVersion>10.11.4</sparkle:minimumSystemVersion>
 
 		<sparkle:releaseNotesLink>
@@ -17,8 +17,8 @@
 		</sparkle:releaseNotesLink>
 
         <pubDate>Tue, 05 Apr 2016 13:23:00 +0000</pubDate>
-        <enclosure url="https://github.com/TongKuo/appcast-lab/releases/download/v4.0/appcast-lab.zip" sparkle:version="4.0" sparkle:shortVersionString="Epsilon (4.0)" sparkle:dsaSignature="MCwCFCFK9VNbbcvRv0cZfMrLNrzO1uQpAhQI8BR+8lIzw4+Hjozz0zhk08FAMA==" />
-      </item> -->
+        <enclosure url="https://github.com/TongKuo/appcast-lab/releases/download/v4.0/appcast-lab-epsilon-4.0.zip"" sparkle:version="4.0" sparkle:shortVersionString="Epsilon (4.0)" sparkle:dsaSignature="MCwCFB8Smhjge8TdwFddX4oSyFwbeDl9AhR00uvawUzoPI6CEQmVDLE9hV2MNA==" />
+      </item>
 
       <item>
         <title>"Version \"Gamma\"3.0"</title>
