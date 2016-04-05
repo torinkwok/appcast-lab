@@ -17,11 +17,11 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>Delta</string>
+	<string>Beta</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleVersion</key>
-	<string>4.0</string>
+	<string>2.0</string>
 	<key>LSMinimumSystemVersion</key>
 	<string>$(MACOSX_DEPLOYMENT_TARGET)</string>
 	<key>NSHumanReadableCopyright</key>
@@ -30,13 +30,13 @@
 	<string>MainMenu</string>
 	<key>NSPrincipalClass</key>
 	<string>NSApplication</string>
-	<key>SUFeedURL</key>
-	<string>https://raw.githubusercontent.com/TongKuo/appcast-lab/master/appcast-feed.rss</string>
-	<key>SUEnableAutomaticChecks</key>
-	<string>YES</string>
 	<key>SUAllowsAutomaticUpdates</key>
 	<string>YES</string>
+	<key>SUEnableAutomaticChecks</key>
+	<string>YES</string>
+	<key>SUFeedURL</key>
+	<string>https://raw.githubusercontent.com/TongKuo/appcast-lab/master/appcast-feed.rss</string>
 	<key>SUPublicDSAKeyFile</key>
-	<string>pubkey.pem</string>
+	<string>appcast/pubkey.pem</string>
 </dict>
 </plist>

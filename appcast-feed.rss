@@ -4,7 +4,7 @@
     <title>appcast-lab changelog</title>
     <description>Most recent changes with links to updates.</description>
 
-      <item>
+<!--       <item>
         <title>Version 4.0</title>
 		<sparkle:minimumSystemVersion>10.11.4</sparkle:minimumSystemVersion>
 
@@ -12,15 +12,15 @@
 			https://raw.githubusercontent.com/TongKuo/appcast-lab/master/appcast-4.0-release-notes.htm
 		</sparkle:releaseNotesLink>
 
-		<sparkle:releaseNotesLink xml:lang="de">
+		<sparkle:releaseNotesLink xml:lang="zh-cn">
 			https://raw.githubusercontent.com/TongKuo/appcast-lab/master/appcast-4.0-release-notes-zh-cn.htm
 		</sparkle:releaseNotesLink>
 
         <pubDate>Tue, 05 Apr 2016 13:23:00 +0000</pubDate>
-        <enclosure url="https://github.com/TongKuo/appcast-lab/releases/download/v4.0/appcast-lab.zip" sparkle:version="4.0" sparkle:shortVersionString="Epsilon (4.0)" sparkle:dsaSignature="MCwCFGz0QPM1OTBt6FDdyitC92il/ca6AhRs7ayMobUWjwQ0x3FgCfWBM+Qnjg==" />
-      </item>
+        <enclosure url="https://github.com/TongKuo/appcast-lab/releases/download/v4.0/appcast-lab.zip" sparkle:version="4.0" sparkle:shortVersionString="Epsilon (4.0)" sparkle:dsaSignature="MCwCFCFK9VNbbcvRv0cZfMrLNrzO1uQpAhQI8BR+8lIzw4+Hjozz0zhk08FAMA==" />
+      </item> -->
 
-      <item>
+<!--       <item>
         <title>Version 3.0</title>
 		<sparkle:minimumSystemVersion>10.11.4</sparkle:minimumSystemVersion>
 
@@ -28,15 +28,15 @@
 			https://raw.githubusercontent.com/TongKuo/appcast-lab/master/appcast-3.0-release-notes.htm
 		</sparkle:releaseNotesLink>
 
-		<sparkle:releaseNotesLink xml:lang="de">
+		<sparkle:releaseNotesLink xml:lang="zh-cn">
 			https://raw.githubusercontent.com/TongKuo/appcast-lab/master/appcast-3.0-release-notes-zh-cn.htm
 		</sparkle:releaseNotesLink>
 
         <pubDate>Tue, 05 Apr 2016 13:23:00 +0000</pubDate>
         <enclosure url="https://github.com/TongKuo/appcast-lab/releases/download/v3.0/appcast-lab.zip" sparkle:version="3.0" sparkle:shortVersionString="Gamma (3.0)" sparkle:dsaSignature="MCwCFDU4yHwkaQTantoxHej7Tky/36C/AhQZ1m6eIoenH+lKHF2tY4HgCPVQwA==" />
-      </item>
+      </item> -->
 
-      <item>
+<!--       <item>
         <title>Version 2.1</title>
 		<sparkle:minimumSystemVersion>10.11.4</sparkle:minimumSystemVersion>
 
@@ -44,15 +44,15 @@
 			https://raw.githubusercontent.com/TongKuo/appcast-lab/master/appcast-2.1-release-notes.htm
 		</sparkle:releaseNotesLink>
 
-		<sparkle:releaseNotesLink xml:lang="de">
+		<sparkle:releaseNotesLink xml:lang="zh-cn">
 			https://raw.githubusercontent.com/TongKuo/appcast-lab/master/appcast-2.1-release-notes-zh-cn.htm
 		</sparkle:releaseNotesLink>
 
         <pubDate>Tue, 05 Apr 2016 13:23:00 +0000</pubDate>
         <enclosure url="https://github.com/TongKuo/appcast-lab/releases/download/v2.1/appcast-lab.zip" sparkle:version="2.1" sparkle:shortVersionString="Beta (2.1)" />
-      </item>
+      </item> -->
 
-      <item>
+<!--       <item>
         <title>Version 2.0</title>
 		<sparkle:minimumSystemVersion>10.11.4</sparkle:minimumSystemVersion>
 
@@ -60,13 +60,13 @@
 			https://raw.githubusercontent.com/TongKuo/appcast-lab/master/appcast-2.0-release-notes.htm
 		</sparkle:releaseNotesLink>
 
-		<sparkle:releaseNotesLink xml:lang="de">
+		<sparkle:releaseNotesLink xml:lang="zh-cn">
 			https://raw.githubusercontent.com/TongKuo/appcast-lab/master/appcast-2.0-release-notes-zh-cn.htm
 		</sparkle:releaseNotesLink>
 
         <pubDate>Tue, 05 Apr 2016 13:23:00 +0000</pubDate>
         <enclosure url="https://github.com/TongKuo/appcast-lab/releases/download/v2.0/appcast-lab.zip" sparkle:version="2.0" sparkle:shortVersionString="Beta (2.0)" />
-      </item>
+      </item> -->
 
       <item>
         <title>Version 1.0</title>
@@ -90,7 +90,7 @@
           ]]>
         </description>
         <pubDate>Tue, 05 Apr 2016 13:23:00 +0000</pubDate>
-        <enclosure url="https://github.com/TongKuo/appcast-lab/releases/download/1.0/appcast-lab.zip" sparkle:version="1.0" sparkle:shortVersionString="Alpha (1.0)" />
+		<enclosure url="https://github.com/TongKuo/appcast-lab/releases/download/v1.0/appcast-lab.zip" sparkle:version="1.0" sparkle:shortVersionString="Alpha (1.0)" sparkle:dsaSignature="MC0CFQCKklwR6jSdFvFhJKNfJ8elBm9njwIUC9AGvBLHepoy5CjdJYAyA2VMKFc=" />
       </item>
   </channel>
 </rss>
