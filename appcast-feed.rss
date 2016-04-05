@@ -7,11 +7,12 @@
       <item>
         <title>Version 2.0</title>
 		<sparkle:minimumSystemVersion>10.11.4</sparkle:minimumSystemVersion>
+
 		<sparkle:releaseNotesLink>
 			https://raw.githubusercontent.com/TongKuo/appcast-lab/master/appcast-2.0-release-notes.htm
 		</sparkle:releaseNotesLink>
 
-		<sparkle:releaseNotesLink xml:lang="zh-cn">
+		<sparkle:releaseNotesLink xml:lang="de">
 			https://raw.githubusercontent.com/TongKuo/appcast-lab/master/appcast-2.0-release-notes-zh-cn.htm
 		</sparkle:releaseNotesLink>
 
