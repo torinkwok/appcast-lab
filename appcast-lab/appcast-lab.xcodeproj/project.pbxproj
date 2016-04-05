@@ -15,7 +15,6 @@
 		832922D51CB38264008EFBCB /* appcast_labUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 832922D41CB38264008EFBCB /* appcast_labUITests.m */; };
 		832922FA1CB382D7008EFBCB /* Sparkle.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 832922EF1CB382D3008EFBCB /* Sparkle.framework */; };
 		832922FB1CB382D7008EFBCB /* Sparkle.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 832922EF1CB382D3008EFBCB /* Sparkle.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		832923201CB39E65008EFBCB /* pubkey.pem in Resources */ = {isa = PBXBuildFile; fileRef = 8329231F1CB39E65008EFBCB /* pubkey.pem */; };
 		832923221CB39E73008EFBCB /* pubkey.pem in CopyFiles */ = {isa = PBXBuildFile; fileRef = 8329231F1CB39E65008EFBCB /* pubkey.pem */; };
 /* End PBXBuildFile section */
 
@@ -385,7 +384,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				832922BC1CB38264008EFBCB /* Assets.xcassets in Resources */,
-				832923201CB39E65008EFBCB /* pubkey.pem in Resources */,
 				832922BF1CB38264008EFBCB /* MainMenu.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
