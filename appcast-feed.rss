@@ -37,7 +37,7 @@
       </item> -->
 
       <item>
-        <title>Version \"Beta\"2.1</title>
+        <title>"Version \"Beta\"2.1"</title>
 		<sparkle:minimumSystemVersion>10.11.4</sparkle:minimumSystemVersion>
 
 		<sparkle:releaseNotesLink>
